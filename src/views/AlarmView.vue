@@ -1,0 +1,23 @@
+<template>
+    <v-container>
+      <div align="center">
+        <v-img src="@/assets/alarm.jpg" width="1500"></v-img>
+      </div>
+    </v-container>
+  </template>
+  
+  <script>
+  // @ is an alias to /src
+  
+  export default {
+      name: "AlarmView",
+      components: {
+  
+  }
+  
+  }
+  </script>
+  
+  <style>
+  
+  </style>
